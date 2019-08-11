@@ -1,0 +1,31 @@
+Topics
+1. Google Docs
+2. Facebook Messenger
+3. Rate Limitter
+4. Ticketing system
+5. URL shortner
+6. Twitter System
+7. Facebook System
+8. OAuth2 System Design
+9. Uber System
+10. Uberpool system design
+11. Github/Verison control system design
+
+
+
+Presentation Flow:
+1. Requirement
+2. API Design
+3. Data Modeling
+4. High level single Reqeust  basic minimal system design
+5. Estimates
+6. Bottle Necks
+7. Scale the System
+
+
+
+Other Aspects:
+Monitoring
+Availability / Consitency
+Orchestration
+Security
